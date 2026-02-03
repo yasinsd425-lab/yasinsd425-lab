@@ -8,7 +8,7 @@ My focus is building **Digital Twins**, **RAG Systems**, and **Optimization Engi
 
 ## 🛠️ The Arsenal (Portfolio Highlights)
 
-I don't just analyze data; I build deployable tools. Here are my top 6 projects:
+I don't just analyze data; I build deployable tools. Here are my top projects:
 
 ### 🏭 Operations & Manufacturing
 | Project | Description | Tech Stack | Status |
@@ -20,6 +20,7 @@ I don't just analyze data; I build deployable tools. Here are my top 6 projects:
 ### 🤖 Applied AI & Vision
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[⚡ SupplyChain Pro](https://github.com/yasinsd425-lab/supply-chain-document-digitizer)** | **Enterprise Invoice Digitizer.** Hybrid AI agent (OCR + Llama 3.3) that extracts validated financial data. | `Groq` `Llama 3` `OCR` | ✅ Live |
 | **[🧠 Industrial RAG Chatbot](https://github.com/yasinsd425-lab/industrial-rag-chatbot)** | LLM-powered assistant that "talks" to technical manuals & documentation. | `LangChain` `OpenAI` `VectorDB` | ✅ Live |
 | **[👁️ Quality Control Vision](https://github.com/yasinsd425-lab/industrial-qc-app)** | Computer Vision system for real-time defect detection on production lines. | `OpenCV` `Deep Learning` | ✅ Live |
 
@@ -41,7 +42,7 @@ I don't just analyze data; I build deployable tools. Here are my top 6 projects:
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** https://www.linkedin.com/in/yasin-sedighi-40037236a/ (LINK_TO_YOUR_LINKEDIN)
-* **Portfolio:** https://share.streamlit.io/user/yasinsd425-lab (LINK_TO_ONE_MAIN_APP)
+* **LinkedIn:** [Yasin Sedighi](https://www.linkedin.com/in/yasin-sedighi-40037236a/)
+* **Portfolio:** [Streamlit Apps](https://share.streamlit.io/user/yasinsd425-lab)
 
 ⭐️ *From Cassino, Italy to the World.*
