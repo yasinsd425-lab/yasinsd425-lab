@@ -27,12 +27,14 @@ I don't just analyze data; I build deployable tools. Here are my top projects:
 ### 💰 Strategy & Finance
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| **[🏨 HotelOps Executive](https://github.com/yasinsd425-lab/Hotel-Dashboard-Flet)** | **Multi-property Hospitality Dashboard.** Tracks RevPAR, Occupancy, & P&L with a high-fidelity Glassmorphism UI. | `Flet` `Python` `Data Eng` | ✅ Live |
 | **[📊 Financial Dashboard](https://github.com/yasinsd425-lab/financial-market-dashboard)** | Real-time market analysis, technical indicators, and risk assessment. | `YFinance` `Technical Analysis` | ✅ Live |
 
 ---
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flet](https://img.shields.io/badge/Flet-UI-purple?style=for-the-badge&logo=flutter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![SimPy](https://img.shields.io/badge/SimPy-Simulation-orange?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
